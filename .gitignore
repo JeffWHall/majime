@@ -1,0 +1,14 @@
+# Secrets
+/config/config.yml
+
+# temp editor files
+*~
+*.swp
+*.swo
+.*.swp
+.*.swo
+*.*.swp
+*.*.swo
+
+# misc
+.DS_Store
